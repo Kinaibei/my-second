@@ -1,12 +1,12 @@
 # my-second
-*day one*
+1.*day one*
 **intallation of tools***
 install
 Git bash R studio
-*Day two*
+2.*Day two*
 introduction to share
 navigating files and diretory
-*Day three*
+3.*Day three*
 Git hub
 
 
